@@ -1,4 +1,4 @@
-package hello.proxy.config.v3_dynamicproxy.v4_postprocessor;
+package hello.proxy.config.v4_postprocessor;
 
 import hello.proxy.config.AppV1config;
 import hello.proxy.config.AppV2config;

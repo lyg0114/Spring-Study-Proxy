@@ -1,4 +1,4 @@
-package hello.proxy.config.v3_dynamicproxy.v4_postprocessor;
+package hello.proxy.config.v4_postprocessor;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.aop.Advisor;

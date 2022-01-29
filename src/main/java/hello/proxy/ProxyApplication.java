@@ -1,8 +1,5 @@
 package hello.proxy;
-
-import hello.proxy.config.v3_dynamicproxy.ProxyFactoryConfigV1;
-import hello.proxy.config.v3_dynamicproxy.ProxyFactoryConfigV2;
-import hello.proxy.config.v3_dynamicproxy.v4_postprocessor.BeanPostProcessorConfig;
+import hello.proxy.config.v4_postprocessor.BeanPostProcessorConfig;
 import hello.proxy.trace.logtrace.LogTrace;
 import hello.proxy.trace.logtrace.ThreadLocalLogTrace;
 import org.springframework.boot.SpringApplication;
